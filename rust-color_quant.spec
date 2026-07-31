@@ -5,8 +5,8 @@
 %global crate color_quant
 
 Name:           rust-%{crate}
-Version:        1.0.1
-Release:        4%{?dist}
+Version:        2.0.0
+Release:        1%{?dist}
 Summary:        Color quantization library to reduce n colors to 256 colors
 
 # Upstream license specification: MIT
